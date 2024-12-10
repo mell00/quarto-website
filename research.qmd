@@ -8,7 +8,7 @@ comments: false
 as a complementary therapy in alleviating chemotherapy related adverse effects in cancer
 patients. Journal of Investigative Medicine, 68, 1, American Federation for Medical Research, 2020,
 University of Southern California, Los Angeles, CA; University of California Irvine, Irvine, CA; CHOC
-Hospital of Orange County, Orange, CA. [[PDF]](/docs/publications/Aromatherapy.pdf "PDF")
+Hospital of Orange County, Orange, CA. [[PDF]](/static/Aromatherapy.pdf "PDF")
 
 ## Posters
 

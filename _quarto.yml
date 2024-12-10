@@ -16,7 +16,7 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: /docs/CV/CV.pdf
+      - href: /static/CV.pdf
         text: CV
     right: 
       - icon: github
