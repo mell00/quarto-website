@@ -1,6 +1,7 @@
 project:
   type: website
   execute-dir: project
+  output-dir: docs
 
 website:
   title: "Madison Ell"
@@ -21,7 +22,7 @@ website:
       - icon: github
         menu:
           - text: Website Source Code
-            url:  https://github.com/mell00/quarto-website-main
+            url:  https://mell00.github.io/quarto-website-main/
           - text: Github Profile
             url:  https://github.com/mell00
   page-footer:
