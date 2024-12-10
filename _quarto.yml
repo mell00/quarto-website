@@ -1,10 +1,10 @@
 project:
   type: website
-  execute-dir: project
   output-dir: docs
-
 website:
   title: "Madison Ell"
+  site-url: https://mell00.github.io/quarto-website-main/
+
   reader-mode: true
   navbar:
     title: false
