@@ -16,7 +16,7 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: /static/CV.pdf
+      - href: /static/Madison Ell CV.pdf
         text: CV
     right: 
       - icon: github
