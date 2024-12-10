@@ -15,8 +15,6 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: teaching.qmd
-        text: Teaching
     right: 
       - icon: github
         menu:
