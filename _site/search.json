@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Madison Ell",
+    "section": "",
+    "text": "CSUF Math 120: Elementary Statistics (Fall 2024)\nCSUF Math 338: Statistics Applied to Natural Science (Fall 2024)\nUCLA Stats 140XP: Practice of Statistical Consulting"
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Madison Ell",
+    "section": "",
+    "text": "CSUF Math 120: Elementary Statistics (Fall 2024)\nCSUF Math 338: Statistics Applied to Natural Science (Fall 2024)\nUCLA Stats 140XP: Practice of Statistical Consulting"
+  },
+  {
+    "objectID": "teaching.html#previous-courses",
+    "href": "teaching.html#previous-courses",
+    "title": "Madison Ell",
+    "section": "Previous Courses",
+    "text": "Previous Courses\n\nUniversity of California, Los Angeles\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\nFall 2022, Winter 2023, Spring 2023\n\n\nSTATS 13\nIntroduction to Statistical Methods for Life\nand Health Sciences\nSummer 2022, Fall 2023\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\nSummer 2024\n\n\nSTATS 21\nPython and Other Technologies for Data Science\nSpring 2023\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\nSummer 2023\n\n\nSTATS 100C\nLinear Models\nSummer 2023\n\n\nSTATS 140XP/ 141XP\nPractice of Statistical Consulting\nWinter 2024, Spring 2024\n\n\n\n\n\nCalifornia State University, Fullerton\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nMath 115\nCollege Algebra\nFall 2019\n\n\nMath 120\nElementary Statistics\nSpring 2020, Fall 2020\n\n\nMath 338\nStatistics Applied to Natural Science\nSpring 2021"
+  },
+  {
     "objectID": "teaching/appointments.html",
     "href": "teaching/appointments.html",
     "title": "Setting up an Appointment",
@@ -23,51 +44,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jose Toledo Luna",
+    "title": "Madison Ell",
     "section": "",
     "text": "I am currently a fourth year Statistics undergraduate student at University of California, Los Angeles (UCLA) . Prior to joining UCLA, I obtained my AS degree in Mathematics at Fullerton College. You can learn more about me from my CV\nEmail: mell@g.ucla.edu"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Jose Toledo Luna",
-    "section": "",
-    "text": "CSUF Math 120: Elementary Statistics (Fall 2024)\nCSUF Math 338: Statistics Applied to Natural Science (Fall 2024)\nUCLA Stats 140XP: Practice of Statistical Consulting"
-  },
-  {
-    "objectID": "teaching.html#current-courses",
-    "href": "teaching.html#current-courses",
-    "title": "Jose Toledo Luna",
-    "section": "",
-    "text": "CSUF Math 120: Elementary Statistics (Fall 2024)\nCSUF Math 338: Statistics Applied to Natural Science (Fall 2024)\nUCLA Stats 140XP: Practice of Statistical Consulting"
-  },
-  {
-    "objectID": "teaching.html#previous-courses",
-    "href": "teaching.html#previous-courses",
-    "title": "Jose Toledo Luna",
-    "section": "Previous Courses",
-    "text": "Previous Courses\n\nUniversity of California, Los Angeles\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nSTATS 10\nIntroduction to Statistical Reasoning\nFall 2022, Winter 2023, Spring 2023\n\n\nSTATS 13\nIntroduction to Statistical Methods for Life\nand Health Sciences\nSummer 2022, Fall 2023\n\n\nSTATS 20\nIntroduction to Statistical Programming with R\nSummer 2024\n\n\nSTATS 21\nPython and Other Technologies for Data Science\nSpring 2023\n\n\nSTATS 100B\nIntroduction to Mathematical Statistics\nSummer 2023\n\n\nSTATS 100C\nLinear Models\nSummer 2023\n\n\nSTATS 140XP/ 141XP\nPractice of Statistical Consulting\nWinter 2024, Spring 2024\n\n\n\n\n\nCalifornia State University, Fullerton\n\n\n\nCourse Number\nCourse Name\nTerms\n\n\n\n\nMath 115\nCollege Algebra\nFall 2019\n\n\nMath 120\nElementary Statistics\nSpring 2020, Fall 2020\n\n\nMath 338\nStatistics Applied to Natural Science\nSpring 2021"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Jose Toledo Luna",
+    "title": "Madison Ell",
     "section": "",
-    "text": "Luna, J. , Jaynes, J. , Xu, H. , Wong, WK. Orthogonal array composite designs for drug combination experiments with applications for tuberculosis. Statistics in Medicine. 2022; 1- 18 [PDF]"
+    "text": "Williams, J., Bade, I., Arora, S., Ell, M., Shen, G., Udata, S., Afghani, B. Use of aromatherapy as a complementary therapy in alleviating chemotherapy related adverse effects in cancer patients. Journal of Investigative Medicine, 68, 1, American Federation for Medical Research, 2020, University of Southern California, Los Angeles, CA; University of California Irvine, Irvine, CA; CHOC Hospital of Orange County, Orange, CA. [PDF]"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
-    "title": "Jose Toledo Luna",
+    "title": "Madison Ell",
     "section": "",
-    "text": "Luna, J. , Jaynes, J. , Xu, H. , Wong, WK. Orthogonal array composite designs for drug combination experiments with applications for tuberculosis. Statistics in Medicine. 2022; 1- 18 [PDF]"
+    "text": "Williams, J., Bade, I., Arora, S., Ell, M., Shen, G., Udata, S., Afghani, B. Use of aromatherapy as a complementary therapy in alleviating chemotherapy related adverse effects in cancer patients. Journal of Investigative Medicine, 68, 1, American Federation for Medical Research, 2020, University of Southern California, Los Angeles, CA; University of California Irvine, Irvine, CA; CHOC Hospital of Orange County, Orange, CA. [PDF]"
   },
   {
-    "objectID": "research.html#software",
-    "href": "research.html#software",
-    "title": "Jose Toledo Luna",
-    "section": "Software",
-    "text": "Software\n\nggDoE: Create commonly used graphs in Design of Experiments with ggplot2\npyLHD: Latin Hypercube Designs for Python"
+    "objectID": "research.html#posters",
+    "href": "research.html#posters",
+    "title": "Madison Ell",
+    "section": "Posters",
+    "text": "Posters\n\nEll, M., Adams, D., Thiemann, E., Wordsworth, R., Wong, M. L., Mayyasi, M., Yung, Y. L. (2024, December 9-13). Hydrogen escape from the Martian upper atmosphere during the Septem- ber 2017 X8.2 solar flare [Conference presentation]. American Geophysical Union 2024, Washington, D.C., United States. https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1533900\nEll, M., Klingbeil, S., Higgins, D., Wilson, N., Liebner, J. (2023, January 4-7). Improving Bayesian methods for locating breakpoints in time series data [Conference presentation]. 2023 Joint Mathematics Meetings, Boston, MA, United States. https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/15315\nEll, M. (2022, November 17). Research Experiences for Undergraduates (REU) with a Fullerton College student [Conference presentation]. Fullerton College, Fullerton, CA, United States.\nEll, M. (2022, August 18). Improving Bayesian methods for locating breakpoints in time series data [Conference presentation]. Pacific Summer Open Mathematics Seminar (PSOMS), Fullerton, CA, United States."
   },
   {
     "objectID": "teaching/stats140xp.html",
