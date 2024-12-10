@@ -1,6 +1,6 @@
 project:
   type: website
-  execute-dir: project
+  execute-dir: docs
 
 website:
   title: "Madison Ell"
