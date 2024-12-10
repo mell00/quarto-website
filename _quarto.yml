@@ -21,14 +21,14 @@ website:
       - icon: github
         menu:
           - text: Website Source Code
-            url:  https://github.com/mell00/quarto-website
+            url:  https://github.com/mell00/quarto-website-main
           - text: Github Profile
             url:  https://github.com/mell00
   page-footer:
     right: "&copy; 2024, Madison Ell"
 #  comments:
 #    utterances:
-#      repo: mell00/quarto-website
+#      repo: mell00/quarto-website-main
     
 # Format-specific Metadata
 format:
