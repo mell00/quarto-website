@@ -8,7 +8,7 @@ comments: false
   <img src="/static/profile.jpg" style="max-width:25%;min-width:25px;float:center;" alt="Madison Ell" />
 </div>
 
-I am currently a fourth year Statistics undergraduate student at University of California, Los Angeles *(UCLA)* . Prior to joining UCLA, I obtained my AS degree in Mathematics at Fullerton College. You can learn more about me from my [CV](/docs/CV/CV.pdf "CV").
+I am currently a fourth year Statistics undergraduate student at University of California, Los Angeles *(UCLA)* . Prior to joining UCLA, I obtained my AS degree in Mathematics at Fullerton College. You can learn more about me from my [CV](/static/Madison Ell.pdf "CV").
 
 
 
